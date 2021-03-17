@@ -61,7 +61,7 @@ For Each Year in 2015-2018
 </p>
 <h3>EDA</h3>
 I created a corelation matrix and looked at education percents by states. Here are some highlights.<br>
-<img src="education.png",  width="50%" height="50%">
+<img src="education.png",  height="50%">
 <img src="rates_states.png">
 
 <h3>Model Building</h3>
