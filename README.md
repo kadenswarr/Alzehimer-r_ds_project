@@ -66,7 +66,7 @@ I created a corelation matrix and looked at education percents by states. Here a
 
 <h3>Model Building</h3>
 <p>
-Since the dataset is small, I needed to make sure the train set wasn't skewed that is why I chose a stratified train/test split, with a test size of 20%.
+Since the dataset is small, I needed to make sure the train set wasn't skewed, so I chose a stratified train/test split, with a test size of 20%.
 To handle null values, I dropped columns with less than 50% of non-nulls. For the remaining colums with the null values, I filled the null values with the mean. Lastly, I applied a standard scaler to the data.
 
 <p>
